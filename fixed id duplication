@@ -112,7 +112,7 @@
     "desc": "A healthy breakfast consisting of a bowl of oatmeal topped with fresh berries, nuts, and seeds, served with a side of yogurt and a glass of orange juice."
   },
   {
-    "id": 14,
+    "id": 15,
     "title": "Healthy Breakfast",
     "category": "breakfast",
     "price": 56.99,
@@ -120,7 +120,7 @@
     "desc": "A nutritious breakfast with a smoothie bowl, chia pudding, and a selection of fresh fruits and nuts."
   },
   {
-    "id": 15,
+    "id": 16,
     "title": "Ozempic Breakfast",
     "category": "breakfast",
     "price": 175.49,
@@ -128,7 +128,7 @@
     "desc": "A hearty breakfast featuring scrambled eggs, avocado toast, smoked salmon, and a side of fresh fruit."
   },
   {
-    "id": 16,
+    "id": 17,
     "title": "Chicken Burger",
     "category": "burger",
     "price": 35.0,
@@ -136,7 +136,7 @@
     "desc": "A delicious chicken burger with a crispy chicken patty, melted cheese, fresh lettuce, tomatoes, olives, and a tangy sauce, served with a side of fries."
   },
   {
-    "id": 17,
+    "id": 18,
     "title": "Premium Wagyu Beef Burger",
     "category": "burger",
     "price": 150.89,
@@ -144,7 +144,7 @@
     "desc": "A luxurious burger made with premium Wagyu beef, topped with truffle aioli, caramelized onions, and arugula, served with a side of sweet potato fries."
   },
   {
-    "id": 18,
+    "id": 19,
     "title": "Double Beef Burger",
     "category": "burger",
     "price": 65.45,
@@ -152,7 +152,7 @@
     "desc": "A double beef patty burger with cheddar cheese, crispy bacon, lettuce, tomato, and a special house sauce, served with a side of onion rings."
   },
   {
-    "id": 19,
+    "id": 20,
     "title": "Lemon CockTail ",
     "category": "alochol",
     "price": 161,
@@ -160,7 +160,7 @@
     "desc": "A refreshing lemon cocktail made with fresh lemon juice, vodka, and a splash of soda, garnished with a lemon slice."
   },
   {
-    "id": 20,
+    "id": 21,
     "title": "Chmpagne wine",
     "category": "alochol",
     "price": 450.95,
@@ -168,7 +168,7 @@
     "desc": "A bottle of premium champagne wine, perfect for celebrating special occasions or enjoying with a loved one."
   },
   {
-    "id": 21,
+    "id": 22,
     "title": "Cherry cocktail",
     "category": "alochol",
     "price": 135.0,
@@ -176,7 +176,7 @@
     "desc": "A delightful cherry cocktail made with cherry liqueur, vodka, and a splash of soda, garnished with fresh cherries."
   },
   {
-    "id": 22,
+    "id": 23,
     "title": "Temaki sushi",
     "category": "shushi",
     "price": 45.65,
@@ -184,7 +184,7 @@
     "desc": "A hand-rolled sushi cone filled with fresh fish, avocado, cucumber, and sushi rice, wrapped in nori."
   },
   {
-    "id": 23,
+    "id": 24,
     "title": "red wine",
     "category": "alochol",
     "price": 250.85,
@@ -192,7 +192,7 @@
     "desc": "A bottle of fine red wine with rich flavors and a smooth finish, perfect for pairing with a variety of dishes."
   },
   {
-    "id": 24,
+    "id": 25,
     "title": "Sweet dessert wine",
     "category": "alochol",
     "price": 119.0,
@@ -200,7 +200,7 @@
     "desc": "A sweet dessert wine with notes of honey, apricot, and peach, perfect for sipping on its own or pairing with a fruit tart."
   },
   {
-    "id": 25,
+    "id": 26,
     "title": "Strawberry cocktail",
     "category": "alochol",
     "price": 65.98,
@@ -208,7 +208,7 @@
     "desc": "A refreshing strawberry cocktail made with fresh strawberries, vodka, and a splash of soda, garnished with a strawberry slice."
   },
   {
-    "id": 26,
+    "id": 27,
     "title": "Chocolate vanilla Milkshake",
     "category": "shakes",
     "price": 19.0,
@@ -216,7 +216,7 @@
     "desc": "A creamy milkshake made with chocolate and vanilla ice cream, topped with whipped cream and chocolate shavings."
   },
   {
-    "id": 27,
+    "id": 28,
     "title": "Chocolate Milkshake",
     "category": "shakes",
     "price": 21.0,
@@ -232,7 +232,7 @@
     "desc": "A sweet and creamy caramel milkshake made with caramel ice cream, topped with whipped cream and caramel sauce."
   },
   {
-    "id": 29,
+    "id": 30,
     "title": "Chirashi sushi",
     "category": "shushi",
     "price": 27.99,
@@ -240,7 +240,7 @@
     "desc": "A colorful bowl of chirashi sushi featuring an assortment of fresh fish, vegetables, and sushi rice, topped with tobiko and sesame seeds."
   },
   {
-    "id": 30,
+    "id": 31,
     "title": "Nigiri sushi",
     "category": "shushi",
     "price": 35.55,
@@ -248,7 +248,7 @@
     "desc": "A selection of nigiri sushi featuring fresh fish, shrimp, and tamago served on a bed of sushi rice, garnished with wasabi and pickled ginger."
   },
   {
-    "id": 31,
+    "id": 32,
     "title": "dragon roll",
     "category": "shushi",
     "price": 75.65,
@@ -256,7 +256,7 @@
     "desc": "A sushi roll filled with eel, cucumber, and avocado, topped with thin slices of avocado and drizzled with eel sauce."
   },
   {
-    "id": 32,
+    "id": 33,
     "title": "inari sushi",
     "category": "shushi",
     "price": 56.95,
@@ -264,7 +264,7 @@
     "desc": "A sweet and savory sushi pocket made with seasoned sushi rice wrapped in a fried tofu pouch, drizzled with soy sauce and sesame seeds."
   },
   {
-    "id": 33,
+    "id": 34,
     "title": "uramaki",
     "category": "shushi",
     "price": 45.99,
@@ -272,7 +272,7 @@
     "desc": "A sushi roll filled with crab, avocado, and cucumber, topped with a layer of fish roe and drizzled with spicy mayo."
   },
   {
-    "id": 34,
+    "id": 35,
     "title": "Fine aged wine",
     "category": "alochol",
     "price": 130.99,
