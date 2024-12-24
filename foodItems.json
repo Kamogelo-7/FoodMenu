@@ -93,7 +93,7 @@
     "category": "pasta",
     "price": 35.0,
     "img": "./images/pasta3.jpg",
-    "desc": "A delicious chicken burger with a crispy chicken patty, melted cheese, fresh lettuce, tomatoes, olives, and a tangy sauce, served with a side of fries."
+    "desc": "Penne pasta tossed in a rich and creamy pesto sauce, topped with grated parmesan cheese and fresh basil."
   },
   {
     "id": 13,
@@ -101,7 +101,7 @@
     "category": "pasta",
     "price": 40.45,
     "img": "./images/pasta4.jpg",
-    "desc": "A delicious chicken burger with a crispy chicken patty, melted cheese, fresh lettuce, tomatoes, olives, and a tangy sauce, served with a side of fries."
+    "desc": "A hearty vegetarian bolognese made with lentils, mushrooms, and a rich tomato sauce, served over spaghetti."
   },
   {
     "id": 14,
@@ -109,7 +109,7 @@
     "category": "breakfast",
     "price": 39.59,
     "img": "./images/breakfast1.jpg",
-    "desc": "A delicious chicken burger with a crispy chicken patty, melted cheese, fresh lettuce, tomatoes, olives, and a tangy sauce, served with a side of fries."
+    "desc": "A healthy breakfast consisting of a bowl of oatmeal topped with fresh berries, nuts, and seeds, served with a side of yogurt and a glass of orange juice."
   },
   {
     "id": 15,
@@ -141,7 +141,7 @@
     "category": "burger",
     "price": 150.89,
     "img": "./images/burger2.jpg",
-    "desc": "A delicious chicken burger with a crispy chicken patty, melted cheese, fresh lettuce, tomatoes, olives, and a tangy sauce, served with a side of fries."
+    "desc": "A luxurious burger made with premium Wagyu beef, topped with truffle aioli, caramelized onions, and arugula, served with a side of sweet potato fries."
   },
   {
     "id": 18,
@@ -149,7 +149,7 @@
     "category": "burger",
     "price": 65.45,
     "img": "./images/burger3.jpg",
-    "desc": "A delicious chicken burger with a crispy chicken patty, melted cheese, fresh lettuce, tomatoes, olives, and a tangy sauce, served with a side of fries."
+    "desc": "A double beef patty burger with cheddar cheese, crispy bacon, lettuce, tomato, and a special house sauce, served with a side of onion rings."
   },
   {
     "id": 19,
@@ -157,7 +157,7 @@
     "category": "alochol",
     "price": 161,
     "img": "./images/alochol3.jpg",
-    "desc": "A delicious chicken burger with a crispy chicken patty, melted cheese, fresh lettuce, tomatoes, olives, and a tangy sauce, served with a side of fries."
+    "desc": "A refreshing lemon cocktail made with fresh lemon juice, vodka, and a splash of soda, garnished with a lemon slice."
   },
   {
     "id": 20,
@@ -165,7 +165,7 @@
     "category": "alochol",
     "price": 450.95,
     "img": "./images/alochol6.jpg",
-    "desc": "A delicious chicken burger with a crispy chicken patty, melted cheese, fresh lettuce, tomatoes, olives, and a tangy sauce, served with a side of fries."
+    "desc": "A bottle of premium champagne wine, perfect for celebrating special occasions or enjoying with a loved one."
   },
   {
     "id": 21,
@@ -173,7 +173,7 @@
     "category": "alochol",
     "price": 135.0,
     "img": "./images/alochol1.jpg",
-    "desc": "A delicious chicken burger with a crispy chicken patty, melted cheese, fresh lettuce, tomatoes, olives, and a tangy sauce, served with a side of fries."
+    "desc": "A delightful cherry cocktail made with cherry liqueur, vodka, and a splash of soda, garnished with fresh cherries."
   },
   {
     "id": 22,
@@ -181,7 +181,7 @@
     "category": "shushi",
     "price": 45.65,
     "img": "./images/shushi1.jpg",
-    "desc": "A delicious chicken burger with a crispy chicken patty, melted cheese, fresh lettuce, tomatoes, olives, and a tangy sauce, served with a side of fries."
+    "desc": "A hand-rolled sushi cone filled with fresh fish, avocado, cucumber, and sushi rice, wrapped in nori."
   },
   {
     "id": 23,
@@ -189,7 +189,7 @@
     "category": "alochol",
     "price": 250.85,
     "img": "./images/alochol5.jpg",
-    "desc": "A delicious chicken burger with a crispy chicken patty, melted cheese, fresh lettuce, tomatoes, olives, and a tangy sauce, served with a side of fries."
+    "desc": "A bottle of fine red wine with rich flavors and a smooth finish, perfect for pairing with a variety of dishes."
   },
   {
     "id": 24,
@@ -197,7 +197,7 @@
     "category": "alochol",
     "price": 119.0,
     "img": "./images/alochol7.jpg",
-    "desc": "A delicious chicken burger with a crispy chicken patty, melted cheese, fresh lettuce, tomatoes, olives, and a tangy sauce, served with a side of fries."
+    "desc": "A sweet dessert wine with notes of honey, apricot, and peach, perfect for sipping on its own or pairing with a fruit tart."
   },
   {
     "id": 25,
@@ -205,7 +205,7 @@
     "category": "alochol",
     "price": 65.98,
     "img": "./images/alochol2.jpg",
-    "desc": "A delicious chicken burger with a crispy chicken patty, melted cheese, fresh lettuce, tomatoes, olives, and a tangy sauce, served with a side of fries."
+    "desc": "A refreshing strawberry cocktail made with fresh strawberries, vodka, and a splash of soda, garnished with a strawberry slice."
   },
   {
     "id": 26,
@@ -213,7 +213,7 @@
     "category": "shakes",
     "price": 19.0,
     "img": "./images/milk-shake1.jpg",
-    "desc": "A delicious chicken burger with a crispy chicken patty, melted cheese, fresh lettuce, tomatoes, olives, and a tangy sauce, served with a side of fries."
+    "desc": "A creamy milkshake made with chocolate and vanilla ice cream, topped with whipped cream and chocolate shavings."
   },
   {
     "id": 27,
@@ -221,7 +221,7 @@
     "category": "shakes",
     "price": 21.0,
     "img": "./images/milk-shake2.jpg",
-    "desc": "A delicious chicken burger with a crispy chicken patty, melted cheese, fresh lettuce, tomatoes, olives, and a tangy sauce, served with a side of fries."
+    "desc": "A rich and indulgent chocolate milkshake made with premium chocolate ice cream, topped with whipped cream and chocolate syrup."
   },
   {
     "id": 28,
@@ -229,7 +229,7 @@
     "category": "shakes",
     "price": 17.65,
     "img": "./images/milk-shake3.jpg",
-    "desc": "A delicious chicken burger with a crispy chicken patty, melted cheese, fresh lettuce, tomatoes, olives, and a tangy sauce, served with a side of fries."
+    "desc": "A sweet and creamy caramel milkshake made with caramel ice cream, topped with whipped cream and caramel sauce."
   },
   {
     "id": 29,
@@ -237,7 +237,7 @@
     "category": "shushi",
     "price": 27.99,
     "img": "./images/shushi2.jpg",
-    "desc": "A delicious chicken burger with a crispy chicken patty, melted cheese, fresh lettuce, tomatoes, olives, and a tangy sauce, served with a side of fries."
+    "desc": "A colorful bowl of chirashi sushi featuring an assortment of fresh fish, vegetables, and sushi rice, topped with tobiko and sesame seeds."
   },
   {
     "id": 30,
@@ -245,7 +245,7 @@
     "category": "shushi",
     "price": 35.55,
     "img": "./images/shushi3.jpg",
-    "desc": "A delicious chicken burger with a crispy chicken patty, melted cheese, fresh lettuce, tomatoes, olives, and a tangy sauce, served with a side of fries."
+    "desc": "A selection of nigiri sushi featuring fresh fish, shrimp, and tamago served on a bed of sushi rice, garnished with wasabi and pickled ginger."
   },
   {
     "id": 31,
@@ -253,7 +253,7 @@
     "category": "shushi",
     "price": 75.65,
     "img": "./images/shushi4.jpg",
-    "desc": "A delicious chicken burger with a crispy chicken patty, melted cheese, fresh lettuce, tomatoes, olives, and a tangy sauce, served with a side of fries."
+    "desc": "A sushi roll filled with eel, cucumber, and avocado, topped with thin slices of avocado and drizzled with eel sauce."
   },
   {
     "id": 32,
@@ -261,7 +261,7 @@
     "category": "shushi",
     "price": 56.95,
     "img": "./images/shushi5.jpg",
-    "desc": "A delicious chicken burger with a crispy chicken patty, melted cheese, fresh lettuce, tomatoes, olives, and a tangy sauce, served with a side of fries."
+    "desc": "A sweet and savory sushi pocket made with seasoned sushi rice wrapped in a fried tofu pouch, drizzled with soy sauce and sesame seeds."
   },
   {
     "id": 33,
@@ -269,7 +269,7 @@
     "category": "shushi",
     "price": 45.99,
     "img": "./images/shushi6.jpg",
-    "desc": "A delicious chicken burger with a crispy chicken patty, melted cheese, fresh lettuce, tomatoes, olives, and a tangy sauce, served with a side of fries."
+    "desc": "A sushi roll filled with crab, avocado, and cucumber, topped with a layer of fish roe and drizzled with spicy mayo."
   },
   {
     "id": 34,
@@ -277,6 +277,6 @@
     "category": "alochol",
     "price": 130.99,
     "img": "./images/alochol4.jpg",
-    "desc": "A delicious chicken burger with a crispy chicken patty, melted cheese, fresh lettuce, tomatoes, olives, and a tangy sauce, served with a side of fries."
+    "desc": "A bottle of fine aged wine with complex flavors and a smooth finish, perfect for pairing with a variety of dishes."
   }
 ]
