@@ -77,15 +77,15 @@
     "category": "pasta",
     "price": 54.99,
     "img": "./images/pasta1.jpg",
-    "desc": "A large double beef patty burger with a creamy mayo sauce, melted cheese, fresh lettuce, tomatoes, and pickles, served on a toasted sesame seed bun."
+    "desc": "A delicious fusilli pasta dish with a rich tomato sauce, fresh basil, and grated Parmesan cheese, served with garlic bread."
   },
   {
     "id": 11,
-    "title": "Meat ball pasta",
+    "title": "Meatball Pasta",
     "category": "pasta",
     "price": 45.65,
     "img": "./images/pasta2.jpg",
-    "desc": "A mid-sized burger featuring a juicy beef patty, crispy bacon, melted cheese, fresh lettuce, tomatoes, and onions, served with a side of fries and a garden salad."
+    "desc": "A hearty pasta dish featuring spaghetti and homemade meatballs in a savory marinara sauce, topped with grated Parmesan cheese."
   },
   {
     "id": 12,
@@ -112,20 +112,20 @@
     "desc": "A healthy breakfast consisting of a bowl of oatmeal topped with fresh berries, nuts, and seeds, served with a side of yogurt and a glass of orange juice."
   },
   {
-    "id": 15,
-    "title": "ozempic breakfast",
-    "category": "breakfast",
-    "price": 175.49,
-    "img": "./images/breakfast2.jpg",
-    "desc": "A delicious chicken burger with a crispy chicken patty, melted cheese, fresh lettuce, tomatoes, olives, and a tangy sauce, served with a side of fries."
-  },
-  {
     "id": 14,
     "title": "Healthy Breakfast",
     "category": "breakfast",
     "price": 56.99,
     "img": "./images/breakfast3.jpg",
-    "desc": "A delicious chicken burger with a crispy chicken patty, melted cheese, fresh lettuce, tomatoes, olives, and a tangy sauce, served with a side of fries."
+    "desc": "A nutritious breakfast with a smoothie bowl, chia pudding, and a selection of fresh fruits and nuts."
+  },
+  {
+    "id": 15,
+    "title": "Ozempic Breakfast",
+    "category": "breakfast",
+    "price": 175.49,
+    "img": "./images/breakfast2.jpg",
+    "desc": "A hearty breakfast featuring scrambled eggs, avocado toast, smoked salmon, and a side of fresh fruit."
   },
   {
     "id": 16,
